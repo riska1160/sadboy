@@ -28,13 +28,13 @@ Scan the qr code that appears, using whatsapp web!
 
 ## SOCIAL MEDIA
 
-* [INSTAGRAM FADHIL](https://instagram.com/nur.fdhl)
+
 * [GROUP WHATSAPP](https://chat.whatsapp.com/IOH07I8Ud9R46soSkt2EB7)
 * [GROUP TELEGRAM](https://t.me/joinchat/FT_-G7e136-CWXTM)
 * [WHATSAPP](https://api.whatsapp.com/send?phone=6288221608614&text=Assalamualaikum)
 * [YOUTUBE](https://youtube.com/channel/UCdQHlF_G7XUaPCSHw-WMS0g)
-* [TWITTER](https://twitter.com/nurfdhl_)
-* [INSTAGRAM AFFIS](https://Instagram.com/affis_saputro123)
+
+
 
 ## FEATURE
 
